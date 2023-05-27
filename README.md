@@ -61,7 +61,7 @@ This project is a startup landing page created using Bootstrap and incorporates 
 
 ### Overview
 
-The goal of this project was to create a visually appealing and responsive landing page for a startup. By leveraging Bootstrap, I was able to utilize its pre-built CSS styles and components to design a professional-looking layout quickly. The landing page includes various sections to showcase the startup's features, benefits, and call-to-action.
+The goal of this project was to create a visually appealing and responsive landing page for a startup. By leveraging Bootstrap, I was able to utilize its pre-built CSS styles and components to design a professional-looking layout quickly. The landing page includes a main section, background image, and call to action button.
 
 In addition, I integrated Mailchimp to provide an email capture form for visitors interested in learning more about the startup. This integration allowed me to capture leads effectively and manage them through Mailchimp's user-friendly platform.
 
