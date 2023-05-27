@@ -114,6 +114,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [HTML.com]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: [html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
 [CSS3.com]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[CSS-url]: [Css3.com](https://css3.com/)
+[CSS-url]: https://css3.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
