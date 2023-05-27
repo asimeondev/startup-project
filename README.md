@@ -59,7 +59,7 @@
 
 This project is a startup landing page created using Bootstrap and incorporates Mailchimp for capturing email addresses. As a web development student, I designed this landing page to gain hands-on experience in page layout using Bootstrap's responsive grid system and to learn how to set up a lead capture system with Mailchimp.
 
-###Overview
+### Overview
 
 The goal of this project was to create a visually appealing and responsive landing page for a startup. By leveraging Bootstrap, I was able to utilize its pre-built CSS styles and components to design a professional-looking layout quickly. The landing page includes various sections to showcase the startup's features, benefits, and call-to-action.
 
